@@ -1,0 +1,11 @@
+{
+	"id": "fragmented-knowledge-org",
+	"name": "知识碎片整理",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "快速记录知识碎片，利用 AI 进行整理",
+	"author": "王政乔",
+	"authorUrl": "www.zhengqiao.wang",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
